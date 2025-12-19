@@ -1,4 +1,4 @@
-** **Malaria Cell Classification using CNN + Discrete Wavelet Transform (DWT)****
+**Malaria Cell Classification using CNN + Discrete Wavelet Transform (DWT)**
 
 **Overview**
 This project implements a custom CNN architecture integrated with Discrete Wavelet Transform (DWT) for binary classification of malaria cell images into Parasitized and Uninfected classes.
