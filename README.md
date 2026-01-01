@@ -73,11 +73,11 @@ This mimics a Haar Wavelet Transform and enables frequency-aware learning inside
 
  Evaluation Metrics (Test Set)
 Metric                  	Value
-Accuracy	                96.14%
-Precision (weighted)	    96.16%
-Recall (weighted)	        96.14%
-F1-Score (weighted)	        96.14%
-MCC	                        0.9229
+Accuracy	                96.61%
+Precision (weighted)	    96.62%
+Recall (weighted)	        96.61%
+F1-Score (weighted)	      96.61%
+MCC	                      0.9323
 
 **Outputs Saved**
  -Trained weights (.weights.h5)
