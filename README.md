@@ -55,7 +55,7 @@ The custom DWTLayer:
 This mimics a Haar Wavelet Transform and enables frequency-aware learning inside the CNN.
 
 **Training Configuration**
--Optimizer: Adam (lr = 0.001)
+-Optimizer: Adam (lr = 0.0005)
 -Loss: Categorical Cross-Entropy
 -Batch Size: 64
 -Epochs: up to 50
